@@ -6,8 +6,4 @@ Technology stack:
 C Programming Language, Visual Studio Code as Editor, and GCC.
 
 Components:
-ATmega32 Microcontroller Board
-Flex Sensors
-Bluetooth Module HC-05
-DC Motors
-Wheels
+ATmega32 Microcontroller Board, Flex Sensors, Bluetooth Module HC-05, DC Motors, Wheels
